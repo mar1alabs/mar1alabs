@@ -110,19 +110,4 @@ Administradora de Sistemas y Analista de Ciberseguridad con enfoque **Purple Tea
   </tr>
 </table>
 
----
 
-### Actividad & Métricas
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tu_usuario&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=E9D5FF" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tu_usuario&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=E9D5FF" width="42%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tu_usuario&theme=react-dark&area=true&hide_border=true&bg_color=0D1117&color=A855F7" width="95%" />
-</p>
-
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=tu_usuario&label=SYSTEM+ACCESSES&color=9333ea&style=flat-square" alt="Views" />
-</p>
