@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/tu_usuario/tu_usuario/blob/main/1.jpg?raw=true" alt="Banner Maria Leon" width="100%"/>
+  <img src="./banner_github.jpg" alt="Banner Maria Leon" width="100%"/>
 </p>
 
 <h1 align="center">👾 María León Martínez</h1>
