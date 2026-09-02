@@ -5,7 +5,7 @@
 <h1 align="center">María León Martínez</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=800&color=A855F7&center=true&vCenter=true&width=650&lines=Purple+Team+Analyst+%7C+SysAdmin;OSINT+Investigator+%26+Threat+Intel;Blue+Team+%26+SOC+Operations;Python+Automation%26" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=800&color=A855F7&center=true&vCenter=true&width=650&lines=Purple+Team+Analyst+%7C+SysAdmin;OSINT+Investigator+%26+Threat+Intel;Blue+Team+%26+SOC+Operations;Python+Automation" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -96,8 +96,8 @@ Desarrollo de scripts y herramientas de análisis en Python.
 
 ### Tecnologías
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,ubuntu,windows,python,bash,docker,mysql,git,vscode&perline=5" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,windows,python,bash,docker,mysql,git,vscode&perline=9" />
 </p>
 
 ### Especialidades Técnicas
