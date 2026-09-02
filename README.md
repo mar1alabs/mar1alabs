@@ -24,11 +24,9 @@
 
 ---
 
-## 👩‍💻 Perfil Profesional
+## Perfil Profesional
 
-Soy María, Técnica Superior en Administración de Sistemas Informáticos en Red con una especial pasión por la Ciberseguridad.
-
-Combino conocimientos defensivos (**Blue Team / SOC**) y técnicas ofensivas (**Red Team / OSINT**) para mejorar la seguridad global.
+Soy María, Técnica Superior en Administración de Sistemas Informáticos en Red con una especial pasión por la Ciberseguridad. Combino conocimientos defensivos (**Blue Team / SOC**) y técnicas ofensivas (**Red Team / OSINT**) para mejorar la seguridad global.
 
 Experiencia en:
 
@@ -40,7 +38,7 @@ Experiencia en:
 
 ---
 
-## 🛡️ Enfoque Purple Team
+## Enfoque Purple Team
 
 ### 🔵 Blue Team
 
@@ -72,7 +70,7 @@ Desarrollo de scripts y herramientas de análisis en Python.
 
 ---
 
-## 💼 Experiencia Laboral
+## Experiencia Laboral
 
 ### Desarrolladora Web
 
@@ -92,7 +90,7 @@ Desarrollo de scripts y herramientas de análisis en Python.
 
 ---
 
-## ⚙️ Stack Técnico
+## Stack Técnico
 
 ### Tecnologías
 
@@ -116,7 +114,7 @@ Desarrollo de scripts y herramientas de análisis en Python.
 
 ---
 
-## 🎓 Formación Académica
+## Formación Académica
 
 ### Máster en Ciberseguridad y Hacking Ético
 
@@ -138,5 +136,5 @@ Desarrollo de scripts y herramientas de análisis en Python.
 
 <p align="center">
   <br>
-  <b>🔐 Purple Team · Cybersecurity · Systems · OSINT · Automation</b>
+  <b>Purple Team · Cybersecurity · Systems · OSINT · Automation</b>
 </p>
