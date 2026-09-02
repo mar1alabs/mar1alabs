@@ -17,7 +17,7 @@
 
 ### Perfil Profesional
 
-Administradora de Sistemas y Analista de Ciberseguridad con enfoque **Purple Team**. Combino conocimientos defensivos (**Blue Team / SOC**) y técnicas ofensivas (**Red Team / OSINT**) para mejorar la postura de seguridad global. Experiencia en monitorización, respuesta ante incidentes, hardening de sistemas (Linux/Windows) y desarrollo de automatizaciones en Python para la optimización de flujos de SecOps.
+👋🏻¡Hola! Soy María, Técnica Superior en Administración de Sistemas Informáticos en Red con una especial pasión por la Ciberseguridad. Combino conocimientos defensivos (**Blue Team / SOC**) y técnicas ofensivas (**Red Team / OSINT**) para mejorar la seguridad global. Experiencia en monitorización, respuesta ante incidentes, hardening de sistemas (Linux/Windows) y desarrollo de automatizaciones en Python para la optimización de flujos de SecOps.
 
 ---
 
