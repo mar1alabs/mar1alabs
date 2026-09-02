@@ -4,7 +4,7 @@
 
 <h1 align="center">María León Martínez</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=800&color=A855F7&center=true&vCenter=true&width=650&lines=Purple+Team+Analyst+%7C+SysAdmin;OSINT+Investigator+%26+Threat+Intel;Blue+Team+%26+SOC+Operations;Python+Automation+%26" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=800&color=A855F7&center=true&vCenter=true&width=650&lines=Purple+Team+Analyst+%7C+SysAdmin;OSINT+Investigator+%26+Threat+Intel;Blue+Team+%26+SOC+Operations;Python+Automation%26" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@
 
 ### Perfil Profesional
 
-👋🏻¡Hola! Soy María, Técnica Superior en Administración de Sistemas Informáticos en Red con una especial pasión por la Ciberseguridad. Combino conocimientos defensivos (**Blue Team / SOC**) y técnicas ofensivas (**Red Team / OSINT**) para mejorar la seguridad global. Experiencia en monitorización, respuesta ante incidentes, hardening de sistemas (Linux/Windows) y desarrollo de automatizaciones en Python para la optimización de flujos de SecOps.
+Soy María, Técnica Superior en Administración de Sistemas Informáticos en Red con una especial pasión por la Ciberseguridad. Combino conocimientos defensivos (**Blue Team / SOC**) y técnicas ofensivas (**Red Team / OSINT**) para mejorar la seguridad global. Experiencia en monitorización, respuesta ante incidentes, hardening de sistemas (Linux/Windows) y desarrollo de automatizaciones en Python para la optimización de flujos de SecOps.
 
 ---
 
@@ -51,7 +51,7 @@
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <b>Desarrolladora / SecOps</b> — <i>Enkross</i><br>
+      <b>Desarrolladora Web</b> — <i>Enkross</i><br>
       <small>2024 - 2025</small>
       <ul>
         <li>Desarrollo de aplicaciones web y de escritorio en Python para la automatización de procesos internos.</li>
@@ -62,8 +62,8 @@
       <b>Técnica de Sistemas & SAP</b> — <i>Capgemini</i><br>
       <small>2023</small>
       <ul>
-        <li>Supervisión de la infraestructura técnica y administración de entornos SAP.</li>
         <li>Gestión de incidencias, monitorización y análisis de logs de sistema.</li>
+        <li>Supervisión de la infraestructura técnica y administración de entornos SAP.</li>
       </ul>
     </td>
   </tr>
@@ -76,15 +76,15 @@
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h4>Tecnologías Core</h4>
+      <h4>Tecnologías</h4>
       <img src="https://skillicons.dev/icons?i=linux,ubuntu,windows,python,bash,docker,mysql,git,vscode&perline=5" />
     </td>
     <td width="50%" valign="top">
       <h4>Especialidades Técnicas</h4>
-      <code><b>OSINT & Intelligence:</b> Reconocimiento, Fuentes Abiertas, OSINT Frameworks</code><br>
-      <code><b>Defensive Operations:</b> IAM, GPO Hardening, Incident Response, Log Analysis</code><br>
+      <code><b>Defensive Operations:</b> Incident Response, Log Analysis</code><br>
       <code><b>Networking & Systems:</b> Active Directory, TCP/IP, DNS, DHCP, VirtualBox, VMware</code><br>
       <code><b>Scripting & Dev:</b> Python Automation, Bash Scripting, Web Dev</code>
+      <code><b>OSINT & Intelligence:</b> Reconocimiento, Fuentes Abiertas, OSINT Frameworks</code><br>
     </td>
   </tr>
 </table>
@@ -96,11 +96,11 @@
 <table align="center" width="100%">
   <tr>
     <td width="33%" align="center">
-      <b>Máster en Hacking Ético</b><br>
+      <b>Máster en Ciberseguridad y Hacking Ético</b><br>
       <i>Big School (2026)</i>
     </td>
     <td width="33%" align="center">
-      <b>Máster Ciberseguridad e IA</b><br>
+      <b>Máster Ciberseguridad e Inteligencia Artificial (IA)</b><br>
       <i>CEI (2025 - 2026)</i>
     </td>
     <td width="33%" align="center">
