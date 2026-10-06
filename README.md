@@ -5,18 +5,18 @@
 <h1 align="center">María León Martínez</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=800&color=A855F7&center=true&vCenter=true&width=650&lines=Purple+Team+Analyst+%7C+SysAdmin;OSINT+Investigator+%26+Threat+Intel;Blue+Team+%26+SOC+Operations;Python+Automation" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=800&color=EC4899&center=true&vCenter=true&width=650&lines=Red+Team+%7C+Blue+Team+%7C+SysAdmin;OSINT+Investigator+%26+Threat+Intel;SOC+Operations+%26+Defensive+Security;Python+Automation" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mar%C3%ADale%C3%B3nmart%C3%ADnez/">
-    <img src="https://img.shields.io/badge/LINKEDIN-5B21B6?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LINKEDIN-DB2777?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:leonmaria.info@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-7E22CE?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/EMAIL-BE185D?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://leonmaria.info">
-    <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=aboutdotme&logoColor=A855F7"/>
+    <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=aboutdotme&logoColor=EC4899"/>
   </a>
 </p>
 
@@ -26,7 +26,7 @@
 
 ## Perfil Profesional
 
-Soy María, Técnica Superior en Administración de Sistemas Informáticos en Red con una especial pasión por la Ciberseguridad. Combino conocimientos defensivos (**Blue Team / SOC**) y técnicas ofensivas (**Red Team / OSINT**) para mejorar la seguridad global.
+Soy María, Técnica Superior en Administración de Sistemas Informáticos en Red con una especial pasión por la Ciberseguridad. Combino conocimientos defensivos (**Blue Team / SOC**) y ofensivos (**Red Team / OSINT**) para comprender, detectar y responder ante diferentes tipos de amenazas.
 
 Experiencia en:
 
@@ -38,7 +38,7 @@ Experiencia en:
 
 ---
 
-## Enfoque Purple Team
+## Áreas de Especialización
 
 ### 🔵 Blue Team
 
@@ -128,13 +128,4 @@ Desarrollo de scripts y herramientas de análisis en Python.
 
 ---
 
-### GS Administrador de Sistemas (ASIR)
-
-**Linkia FP** · `Perfil Ciberseguridad`
-
----
-
-<p align="center">
-  <br>
-  <b>Purple Team · Cybersecurity · Systems · OSINT · Automation</b>
-</p>
+### GS Administración de Sistemas Informáticos (ASIR)
