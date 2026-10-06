@@ -5,7 +5,7 @@
 <h1 align="center">María León Martínez</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=800&color=EC4899&center=true&vCenter=true&width=650&lines=Red+Team+%7C+Blue+Team+%7C+SysAdmin;OSINT+Investigator+%26+Threat+Intel;SOC+Operations+%26+Defensive+Security;Python+Automation" alt="Typing SVG" />
+  <img src="banner.png" />
 </p>
 
 <p align="center">
