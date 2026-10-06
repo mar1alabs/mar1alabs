@@ -1,18 +1,22 @@
 <p align="center">
-  <img src="./banner.png" alt="Banner Maria Leon" width="100%"/>
+  <img src="./banner.png" alt="Banner María León" width="100%"/>
 </p>
 
 <h1 align="center">María León Martínez</h1>
 
 <p align="center">
+  <strong>Cybersecurity · Red Team · Blue Team · OSINT · Systems</strong>
+</p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/mar%C3%ADale%C3%B3nmart%C3%ADnez/">
-    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:leonmaria.info@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-BE185D?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/EMAIL-BE185D?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://leonmaria.info">
-    <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=aboutdotme&logoColor=EC4899"/>
+  <a href="https://mar1alabs.github.io/mar1aportfolio/">
+    <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=aboutdotme&logoColor=EC4899" alt="Portfolio"/>
   </a>
 </p>
 
@@ -131,4 +135,3 @@ Desarrollo de scripts y herramientas de análisis en Python.
 ---
 
 ### GS Administrador de Sistemas (ASIR)
-
