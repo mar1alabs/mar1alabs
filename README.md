@@ -5,7 +5,7 @@
 <h1 align="center">María León Martínez</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=900&color=EC4899&center=true&vCenter=true&width=700&lines=Cybersecurity and Ethical Hacking;Red+Team;Blue+Team;OSINT+%26+Threat+Intelligence;Systems+Administration;Cloud+Computing" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=900&color=EC4899&center=true&vCenter=true&width=700&lines=Cybersecurity+&+Ethical+Hacking;Red+Team;Blue+Team;OSINT+%26+Threat+Intelligence;Systems+Administration;Cloud+Computing" alt="Typing SVG" />
 </p>
 
 <p align="center">
