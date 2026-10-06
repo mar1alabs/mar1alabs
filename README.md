@@ -22,7 +22,7 @@
 
 ## Perfil Profesional
 
-Soy María, Técnica Superior en Administración de Sistemas Informáticos en Red con una especial pasión por la Ciberseguridad. Combino conocimientos defensivos (**Blue Team / SOC**) y ofensivos (**Red Team / OSINT**) para comprender, detectar y responder ante diferentes tipos de amenazas.
+Soy María, Técnica Superior en Administración de Sistemas Informáticos en Red con especial interés en Ciberseguridad. Combino conocimientos de **Blue Team / SOC**, **Red Team**, **OSINT** y administración de sistemas para comprender, detectar y analizar diferentes tipos de amenazas.
 
 Experiencia en:
 
@@ -53,7 +53,7 @@ Administración de redes (TCP/IP, DNS/DHCP) y virtualización (VMware, VirtualBo
 
 ### 🔴 Red Team & OSINT
 
-**Simulación & Recon**
+**Offensive Security & Recon**
 
 **OSINT & Threat Intel**
 Recolección de información pública, análisis de amenazas y perfilado.
@@ -112,15 +112,15 @@ Desarrollo de scripts y herramientas de análisis en Python.
 
 ## Formación Académica
 
-### Curso en Cloud Computing con Amazon Web Services (AWS)
-
-**Universitat Politècnica de València (UPV)** · `2026`
-
----
-
 ### Máster en Ciberseguridad y Hacking Ético
 
 **Big School** · `2026`
+
+---
+
+### Curso en Cloud Computing con Amazon Web Services (AWS)
+
+**Universitat Politècnica de València (UPV)** · `2026`
 
 ---
 
@@ -131,3 +131,4 @@ Desarrollo de scripts y herramientas de análisis en Python.
 ---
 
 ### GS Administrador de Sistemas (ASIR)
+
