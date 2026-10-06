@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mar%C3%ADale%C3%B3nmart%C3%ADnez/">
-    <img src="https://img.shields.io/badge/LINKEDIN-DB2777?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:leonmaria.info@gmail.com">
     <img src="https://img.shields.io/badge/EMAIL-BE185D?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -116,6 +116,12 @@ Desarrollo de scripts y herramientas de análisis en Python.
 
 ## Formación Académica
 
+### Curso en Cloud Computing con Amazon Web Services (AWS)
+
+**Universitat Politècnica de València (UPV)** · `2026`
+
+---
+
 ### Máster en Ciberseguridad y Hacking Ético
 
 **Big School** · `2026`
@@ -128,4 +134,4 @@ Desarrollo de scripts y herramientas de análisis en Python.
 
 ---
 
-### GS Administración de Sistemas Informáticos (ASIR)
+### GS Administrador de Sistemas (ASIR)
