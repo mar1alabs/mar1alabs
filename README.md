@@ -1,12 +1,8 @@
 <p align="center">
-  <img src="./banner_github.png" alt="Banner Maria Leon" width="100%"/>
+  <img src="./banner.png" alt="Banner Maria Leon" width="100%"/>
 </p>
 
 <h1 align="center">María León Martínez</h1>
-
-<p align="center">
-  <img src="banner.png" />
-</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mar%C3%ADale%C3%B3nmart%C3%ADnez/">
