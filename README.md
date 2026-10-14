@@ -39,7 +39,7 @@ Me gusta seguir aprendiendo, trabajar en proyectos prácticos y ampliar mis cono
   <img src="https://img.shields.io/badge/02-RED_TEAM-39FF88?style=for-the-badge&labelColor=111111" alt="Red Team">
 </p>
 
-<table>
+<table align="center">
   <tr>
     <td align="center" width="50%">
       <h3>BLUE TEAM</h3>
@@ -64,12 +64,14 @@ Me gusta seguir aprendiendo, trabajar en proyectos prácticos y ampliar mis cono
   </tr>
 </table>
 
+<br>
+
 <p align="center">
   <img src="https://img.shields.io/badge/03-SYSTEMS_%26_NETWORKS-EC4899?style=for-the-badge&labelColor=111111" alt="Systems and Networks">
   <img src="https://img.shields.io/badge/04-DEVELOPMENT_%26_CLOUD-39FF88?style=for-the-badge&labelColor=111111" alt="Development and Cloud">
 </p>
 
-<table>
+<table align="center">
   <tr>
     <td align="center" width="50%">
       <h3>SYSTEMS & NETWORKS</h3>
